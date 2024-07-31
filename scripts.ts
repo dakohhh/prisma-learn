@@ -22,7 +22,7 @@ async function main() {
 
     console.log(user);
 
-    console.log(user.createdAt.toDateString());
+    // console.log(user.createdAt.toDateString());
 
     // Selecting data
 
